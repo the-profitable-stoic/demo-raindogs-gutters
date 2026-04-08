@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "RainDogs Gutters",
+    "phone": "+18129135259",
+    "category": "gutter company",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Gutter Experts",
+      "heroSubline": "Protecting your home from water damage. Quality gutters, expertly installed and maintained in Louisville, KY.",
+      "aboutTitle": "Protecting Louisville Homes, One Gutter at a Time",
+      "aboutText": [
+        "RainDogs Gutters started with a simple mission: to provide Louisville homeowners with reliable gutter solutions that stand up to Kentucky's unpredictable weather. We're a local team, born and raised right here, and we understand the unique challenges our climate and housing styles present.",
+        "Our approach is straightforward: honest assessments, quality materials, and meticulous workmanship. We don't cut corners, and we stand behind every job we do. We believe in clear communication and ensuring you understand exactly what your home needs to stay protected.",
+        "We're proud to be a part of the Louisville community. From Old Louisville's historic homes to the newer developments in the east end, we're committed to keeping our neighborhoods safe and dry. We actively support local initiatives and believe in giving back to the city that's given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Louisville's unique climate and housing needs."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable gutters built to last, even through the toughest storms."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Precise installation for optimal performance and water diversion."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt, professional service you can count on, every time."
+        }
+      ],
+      "ctaHeadline": "Get a Free Gutter Inspection",
+      "ctaSubline": "Protect your home from water damage. Schedule your free inspection today!"
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Expert gutter installation for new construction and replacements in Louisville.",
+        "description": "Proper gutter installation is crucial for protecting your Louisville home from water damage. We assess your property's specific needs, considering roof pitch, landscaping, and drainage patterns. We offer a variety of gutter materials, including aluminum, copper, and steel, each with its own benefits in terms of durability and aesthetics. Our installation process involves precise measurements, secure mounting, and seamless connections to ensure optimal performance. We pay close attention to detail, ensuring proper slope for efficient water flow and preventing standing water that can lead to clogs and damage. With Louisville's mixed housing stock, from historic brick homes to modern builds, we tailor our approach to each unique property. We address common issues like limestone foundation concerns and heavy rainfall by providing customized gutter solutions that offer lasting protection. Our team ensures a clean and professional installation, leaving your property looking its best.",
+        "process": [
+          "Step 1: Property Assessment - We evaluate your home's specific needs and identify potential problem areas.",
+          "Step 2: Material Selection - Choose from a variety of gutter materials to match your style and budget.",
+          "Step 3: Precise Installation - Our experienced team ensures accurate measurements and secure mounting.",
+          "Step 4: Quality Check - We thoroughly inspect the completed installation to guarantee optimal performance."
+        ],
+        "benefits": [
+          "Protects your foundation from water damage",
+          "Prevents soil erosion and landscaping damage",
+          "Reduces the risk of basement flooding",
+          "Extends the life of your roof"
+        ],
+        "faq": [
+          {
+            "question": "How long does gutter installation take?",
+            "answer": "The installation time varies depending on the size and complexity of your home, but most projects are completed within one to two days."
+          },
+          {
+            "question": "What type of gutters are best for Louisville's climate?",
+            "answer": "Aluminum gutters are a popular choice due to their durability and resistance to rust. Copper gutters offer a more premium look and are highly durable, but come at a higher cost."
+          },
+          {
+            "question": "Do you offer warranties on your gutter installations?",
+            "answer": "Yes, we offer comprehensive warranties on both materials and workmanship to ensure your peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Fast and reliable gutter repair services to fix leaks, sags, and damage.",
+        "description": "Louisville's weather can be tough on gutters. From spring storms to winter ice, your gutters can suffer damage that compromises their effectiveness. We specialize in gutter repair services, addressing issues like leaks, sagging, detached downspouts, and damaged sections. We conduct thorough inspections to identify the root cause of the problem and provide cost-effective solutions. Our team is equipped to handle all types of gutter repairs, from patching small holes to replacing entire sections. We use quality materials to ensure lasting repairs that withstand Louisville's unpredictable weather. We understand the importance of prompt service, especially when dealing with leaks that can lead to water damage. Whether you live in the Highlands or St. Matthews, we'll get your gutters back in shape quickly and efficiently, protecting your home from costly repairs down the road. Don't let damaged gutters compromise the integrity of your home – call RainDogs Gutters for reliable repair services.",
+        "process": [
+          "Step 1: Thorough Inspection - We identify the source of the problem and assess the extent of the damage.",
+          "Step 2: Targeted Repairs - We address specific issues like leaks, sags, and detached downspouts.",
+          "Step 3: Quality Materials - We use durable materials to ensure lasting repairs that withstand Louisville's weather.",
+          "Step 4: Performance Check - We verify the effectiveness of the repairs to ensure optimal performance."
+        ],
+        "benefits": [
+          "Prevents water damage to your home's foundation",
+          "Protects your landscaping from erosion",
+          "Extends the lifespan of your gutters",
+          "Saves you money on costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Common signs include leaks, sagging, overflowing, and detached downspouts. If you notice any of these issues, it's time to call for a professional inspection."
+          },
+          {
+            "question": "Can you repair gutters on historic homes?",
+            "answer": "Yes, we have experience working on historic homes in Old Louisville and other areas. We take special care to preserve the original character of your property while ensuring proper gutter function."
+          },
+          {
+            "question": "How much does gutter repair cost?",
+            "answer": "The cost of gutter repair varies depending on the extent of the damage. We provide free estimates to give you a clear understanding of the costs involved."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Professional gutter cleaning services to prevent clogs and water damage.",
+        "description": "Clogged gutters are a common problem in Louisville, especially with our abundance of mature trees. Leaves, twigs, and debris can accumulate in your gutters, preventing water from flowing freely and leading to potential water damage. We offer professional gutter cleaning services to remove all debris and ensure your gutters are functioning properly. Our team uses safe and effective methods to clean your gutters without damaging them or your property. We thoroughly flush out downspouts to ensure clear drainage. Regular gutter cleaning is essential for preventing costly repairs and maintaining the integrity of your home. We recommend cleaning your gutters at least twice a year, especially in the spring and fall. Protect your Louisville home from water damage – schedule your gutter cleaning with RainDogs Gutters today.",
+        "process": [
+          "Step 1: Debris Removal - We carefully remove all leaves, twigs, and debris from your gutters.",
+          "Step 2: Downspout Flushing - We flush out your downspouts to ensure clear drainage.",
+          "Step 3: Gutter Inspection - We inspect your gutters for any signs of damage or potential problems.",
+          "Step 4: Property Cleanup - We remove all debris from your property and leave it clean and tidy."
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Protects your landscaping",
+          "Extends the life of your gutters",
+          "Reduces the risk of pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the spring and fall, to prevent clogs and water damage."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "While it's possible to clean your gutters yourself, it can be dangerous and time-consuming. Our professional service ensures thorough cleaning and identifies potential problems you might miss."
+          },
+          {
+            "question": "Do you offer gutter cleaning contracts?",
+            "answer": "Yes, we offer convenient gutter cleaning contracts to ensure your gutters are always clean and functioning properly."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guard-installation",
+        "name": "Gutter Guard Installation",
+        "shortDescription": "Install gutter guards to prevent clogs and reduce maintenance.",
+        "description": "Tired of constantly cleaning your gutters? Gutter guards are a great solution for Louisville homeowners looking to reduce maintenance and prevent clogs. We offer a variety of gutter guard options to fit your needs and budget. From mesh screens to surface tension systems, we can help you choose the right gutter guard for your home. Our installation process is precise and ensures a secure fit that prevents debris from entering your gutters. With gutter guards, you can say goodbye to frequent gutter cleaning and enjoy peace of mind knowing your gutters are protected from clogs. Protect your Louisville home with RainDogs Gutters' gutter guard installation services.",
+        "process": [
+          "Step 1: Consultation & Selection - We discuss your needs and recommend the best gutter guard option for your home.",
+          "Step 2: Precise Measurement - We accurately measure your gutters to ensure a perfect fit.",
+          "Step 3: Professional Installation - Our experienced team installs your gutter guards with precision and care.",
+          "Step 4: Quality Assurance - We thoroughly inspect the installation to ensure optimal performance."
+        ],
+        "benefits": [
+          "Reduces the need for frequent gutter cleaning",
+          "Prevents clogs and water damage",
+          "Extends the life of your gutters",
+          "Saves you time and money on maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of gutter guards?",
+            "answer": "Gutter guards prevent debris from entering your gutters, reducing the need for frequent cleaning and preventing clogs that can lead to water damage."
+          },
+          {
+            "question": "What types of gutter guards do you offer?",
+            "answer": "We offer a variety of gutter guard options, including mesh screens, surface tension systems, and foam inserts, to fit your specific needs and budget."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards varies depending on the type and size of your gutters. We provide free estimates to give you a clear understanding of the costs involved."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation-repair",
+        "name": "Downspout Installation & Repair",
+        "shortDescription": "Expert downspout services for efficient water drainage away from your foundation.",
+        "description": "Your downspouts are a critical part of your gutter system, directing water away from your foundation to prevent water damage. We offer downspout installation and repair services to ensure your downspouts are functioning properly. We can install new downspouts, repair damaged ones, and extend downspouts to direct water further away from your home's foundation. We address common problems like clogged downspouts, detached downspouts, and downspouts that are too short. Our team ensures proper placement and secure attachment to prevent leaks and ensure efficient water drainage. Protect your Louisville home from water damage with RainDogs Gutters' downspout services.",
+        "process": [
+          "Step 1: Inspection & Assessment - We assess your downspout needs and identify any existing problems.",
+          "Step 2: Customized Solutions - We recommend the best downspout solutions for your property.",
+          "Step 3: Professional Installation/Repair - Our experienced team ensures precise installation or repair.",
+          "Step 4: Performance Testing - We test the downspouts to ensure efficient water drainage."
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation",
+          "Protects your landscaping from erosion",
+          "Reduces the risk of basement flooding",
+          "Ensures efficient water drainage"
+        ],
+        "faq": [
+          {
+            "question": "Why are downspouts important?",
+            "answer": "Downspouts direct water away from your foundation, preventing water damage and protecting your home's structural integrity."
+          },
+          {
+            "question": "How far should downspouts extend from my house?",
+            "answer": "Downspouts should extend at least 4-6 feet away from your foundation to ensure proper water drainage."
+          },
+          {
+            "question": "What are the signs of a damaged downspout?",
+            "answer": "Common signs include leaks, detached sections, and clogged downspouts."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof with professional soffit and fascia repair services.",
+        "description": "Soffit and fascia are essential components of your roof system, protecting your home from the elements and providing ventilation. Damaged soffit and fascia can lead to water damage, pest infestations, and structural problems. We offer soffit and fascia repair services to address issues like rot, decay, and damage from pests. We use quality materials to ensure lasting repairs that protect your Louisville home. Our team is experienced in working with all types of soffit and fascia, and we provide customized solutions to fit your specific needs. Protect your roof and your home with RainDogs Gutters' soffit and fascia repair services.",
+        "process": [
+          "Step 1: Thorough Inspection - We assess the condition of your soffit and fascia and identify any areas of damage.",
+          "Step 2: Material Selection - We choose durable materials that match your home's style and provide lasting protection.",
+          "Step 3: Expert Repair/Replacement - Our skilled team performs precise repairs or replacements.",
+          "Step 4: Quality Assurance - We ensure the repairs are properly sealed and protect your home from the elements."
+        ],
+        "benefits": [
+          "Protects your roof from water damage",
+          "Prevents pest infestations",
+          "Extends the life of your roof",
+          "Improves your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof."
+          },
+          {
+            "question": "Why is soffit and fascia important?",
+            "answer": "Soffit provides ventilation for your attic, while fascia protects your roof from water damage and provides a surface for attaching gutters."
+          },
+          {
+            "question": "What are the signs of damaged soffit and fascia?",
+            "answer": "Common signs include rot, decay, peeling paint, and evidence of pest infestations."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-gutter-services",
+        "name": "Emergency Gutter Services",
+        "shortDescription": "24/7 emergency gutter repair to prevent water damage after storms.",
+        "description": "When severe weather hits Louisville, gutter damage can happen at any time. That's why RainDogs Gutters offers 24/7 emergency gutter services to address urgent issues and prevent further water damage. Whether it's a collapsed gutter, a major leak, or a detached downspout, our team is ready to respond quickly and provide effective solutions. We prioritize emergency calls and arrive promptly to assess the damage and implement immediate repairs. Our goal is to minimize water intrusion and protect your home from costly repairs. Don't let storm damage compromise the safety and integrity of your home – call RainDogs Gutters for reliable emergency gutter services.",
+        "process": [
+          "Step 1: Emergency Call - Contact us for immediate assistance with your gutter emergency.",
+          "Step 2: Rapid Response - Our team arrives promptly to assess the damage and provide temporary solutions.",
+          "Step 3: Damage Assessment - We evaluate the extent of the damage and develop a comprehensive repair plan.",
+          "Step 4: Permanent Repairs - We complete the necessary repairs to restore your gutter system to optimal function."
+        ],
+        "benefits": [
+          "Immediate response to gutter emergencies",
+          "Prevents further water damage",
+          "Protects your home from costly repairs",
+          "Provides peace of mind during severe weather"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a gutter emergency?",
+            "answer": "A gutter emergency includes any situation that poses an immediate threat of water damage to your home, such as a collapsed gutter, a major leak, or a detached downspout."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We prioritize emergency calls and strive to respond as quickly as possible, typically within a few hours, depending on the location and severity of the situation."
+          },
+          {
+            "question": "What types of emergency gutter repairs do you offer?",
+            "answer": "We offer a wide range of emergency gutter repairs, including patching leaks, reattaching downspouts, and temporarily securing damaged gutters."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is proud to serve the Louisville metropolitan area. As a locally owned and operated business, we understand the unique challenges that Louisville's weather patterns can pose to your home's gutter system. From heavy thunderstorms to icy winters, your gutters need to be up to the task of protecting your property from water damage.\n\nWe offer a comprehensive range of gutter services in Louisville, including gutter installation, repair, cleaning, and maintenance. Our team of experienced professionals uses only the highest quality materials and proven techniques to ensure that your gutters are functioning properly and efficiently. Whether you need a simple gutter cleaning or a complete gutter replacement, RainDogs Gutters is here to help you protect your home from the elements.",
+        "localContext": "Louisville, known for the Kentucky Derby and its vibrant arts scene, experiences significant rainfall throughout the year, making reliable gutter systems essential for protecting homes and businesses.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is committed to providing top-notch gutter services to the residents of Jeffersontown, KY. We understand the importance of having a properly functioning gutter system to protect your home from water damage, especially with the frequent rain showers in the area.\n\nOur services in Jeffersontown include gutter installation, repair, and cleaning. We use only the highest quality materials and our experienced technicians ensure that every job is done right. Whether you need a new gutter system installed or just a simple cleaning, RainDogs Gutters is here for you.",
+        "localContext": "Jeffersontown, a thriving suburb of Louisville, experiences a humid subtropical climate, making effective gutter systems crucial for managing rainfall and preventing water damage to homes.",
+        "nearbyAreas": [
+          "Louisville",
+          "Fern Creek",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is dedicated to providing exceptional gutter services to the St. Matthews community. We know how important it is to have a reliable gutter system to safeguard your home against water damage, especially with the area's varying weather conditions.\n\nWe offer a wide range of services in St. Matthews, including gutter installation, repair, and cleaning. Our skilled technicians use only the best materials, and we ensure that every job is completed to the highest standards. Whether you need a new gutter system or a routine cleaning, RainDogs Gutters is here to help.",
+        "localContext": "St. Matthews, known for its vibrant shopping and dining scene, also experiences its fair share of rainfall, underscoring the importance of well-maintained gutter systems for protecting local properties.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is proud to offer our professional gutter services to the residents of Shively, KY. We understand the importance of maintaining a healthy gutter system to protect your home from water damage, especially with Kentucky's unpredictable weather patterns.\n\nOur services in Shively include gutter installation, repair, and cleaning. We use quality materials, and our experienced team ensures that every job is done efficiently and effectively. Whether you need a complete gutter replacement or just a thorough cleaning, RainDogs Gutters is ready to serve you.",
+        "localContext": "Shively, a city with a strong industrial history, requires robust gutter systems to protect homes and businesses from the elements and potential water damage.",
+        "nearbyAreas": [
+          "Louisville",
+          "Valley Station",
+          "Pleasure Ridge Park"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is pleased to provide top-quality gutter services to the Lyndon community. We recognize the necessity of having a dependable gutter system to protect your home from the damaging effects of water, particularly with the region's fluctuating weather conditions.\n\nOur Lyndon services include gutter installation, repair, and cleaning. We utilize only the finest materials, and our skilled technicians guarantee that each project is executed with the utmost precision. Whether you need a brand-new gutter system or routine maintenance, RainDogs Gutters is here to assist.",
+        "localContext": "Lyndon, a residential area known for its family-friendly environment, benefits from well-maintained gutter systems to safeguard homes from Kentucky's seasonal rainfall.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Anchorage",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is committed to offering exceptional gutter solutions to the residents of Middletown, KY. We understand the value of a properly functioning gutter system in safeguarding your property from water damage, especially given the area's diverse weather patterns.\n\nOur services in Middletown encompass gutter installation, repair, and cleaning. We employ only premium materials, and our seasoned professionals ensure that every task is completed to the highest standards. Whether you require a complete gutter overhaul or a simple cleaning, RainDogs Gutters is at your service.",
+        "localContext": "Middletown, known for its blend of historic charm and modern development, depends on effective gutter systems to protect its diverse range of properties from water-related issues.",
+        "nearbyAreas": [
+          "Anchorage",
+          "Jeffersontown",
+          "Fisherville"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is proud to extend its superior gutter services to the community of Anchorage, KY. We recognize the critical role of a reliable gutter system in protecting your home from the potentially devastating effects of water damage, particularly in light of Kentucky's varied weather conditions.\n\nOur offerings in Anchorage include gutter installation, repair, and thorough cleaning. We utilize only the finest materials available, and our team of experienced technicians is dedicated to ensuring that every project is completed with meticulous attention to detail. Whether you require a comprehensive gutter system replacement or simply a routine cleaning, RainDogs Gutters is here to provide you with exceptional service and peace of mind.",
+        "localContext": "Anchorage, an affluent residential area known for its historic homes and lush landscapes, relies on well-maintained gutter systems to preserve property values and prevent water damage caused by seasonal rainfall.",
+        "nearbyAreas": [
+          "Middletown",
+          "Lyndon",
+          "Pewee Valley"
+        ]
+      },
+      {
+        "city": "Valley Station",
+        "slug": "valley-station-ky",
+        "state": "KY",
+        "content": "RainDogs Gutters is pleased to offer comprehensive gutter services to the residents of Valley Station, KY. We understand the essential role a properly functioning gutter system plays in protecting your home from water damage, especially given Kentucky's frequently changing weather patterns.\n\nOur services in Valley Station include gutter installation, repair, and cleaning. We use only high-quality materials, and our experienced team ensures that every job is done right, providing you with peace of mind. Whether you need a complete gutter replacement or just a thorough cleaning to keep your system running smoothly, RainDogs Gutters is here to help protect your investment.",
+        "localContext": "Valley Station, a suburban community located southwest of Louisville, experiences seasonal rainfall that necessitates effective gutter systems to protect homes from water damage.",
+        "nearbyAreas": [
+          "Shively",
+          "Pleasure Ridge Park",
+          "Dixiana"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "RainDogs Gutters did an amazing job cleaning my gutters. They were completely clogged with leaves and debris, and now they're flowing perfectly. The team was professional, efficient, and left my property spotless. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "I had a leak in my gutter after a bad storm. RainDogs Gutters came out quickly and repaired the damaged section. They were honest and upfront about the cost, and the repair seems solid. Good service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Gutter Guard Installation",
+        "text": "I'm so glad I had RainDogs Gutters install gutter guards. I haven't had to clean my gutters once since they were installed! The team was professional and efficient, and the guards look great. Definitely worth the investment.",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "Excellent experience with RainDogs Gutters! They installed new gutters on my house in St. Matthews, and they look fantastic. The team was professional, courteous, and paid attention to every detail. I highly recommend them.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Downspout Repair",
+        "text": "My downspout was detached after a heavy rain. RainDogs Gutters came out and reattached it quickly and efficiently. They were friendly and professional, and the price was reasonable.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Emergency Gutter Services",
+        "text": "RainDogs Gutters saved the day. After a particularly bad thunderstorm, a tree limb fell and ripped a section of gutter completely off my house. They responded quickly, secured the area, and scheduled a full replacement. I really appreciate their fast response and professionalism.",
+        "date": "2025-02-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "RainDogs Gutters: Louisville KY Gutter Experts",
+        "description": "Reliable gutter installation, repair, and cleaning in Louisville. Protect your home from water damage with our quality services."
+      },
+      "about": {
+        "title": "About RainDogs Gutters - Louisville KY",
+        "description": "Learn about RainDogs Gutters, Louisville's trusted gutter company. Quality, local service, and commitment to our community."
+      },
+      "services": {
+        "title": "Gutter Services - RainDogs Gutters Louisville",
+        "description": "Comprehensive gutter services in Louisville: installation, repair, cleaning, gutter guards, and more. Protect your home today!"
+      },
+      "contact": {
+        "title": "Contact RainDogs Gutters - Louisville KY",
+        "description": "Contact RainDogs Gutters for a free gutter inspection and estimate. Serving Louisville and surrounding areas."
+      },
+      "reviews": {
+        "title": "RainDogs Gutters Reviews - Louisville KY",
+        "description": "Read reviews from satisfied RainDogs Gutters customers in Louisville. See why we're the trusted choice for gutter services."
+      },
+      "service-areas": {
+        "title": "Service Areas - RainDogs Gutters Louisville",
+        "description": "RainDogs Gutters provides gutter services throughout Louisville and surrounding areas. Find a location near you!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guard-installation": "/images/service-gutter-guard-installation.webp",
+      "downspout-installation-repair": "/images/service-downspout-installation-repair.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "emergency-gutter-services": "/images/service-emergency-gutter-services.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guard-installation": {
+        "src": "/images/service-gutter-guard-installation.webp",
+        "srcset": "/images/service-gutter-guard-installation-400w.webp 400w, /images/service-gutter-guard-installation-800w.webp 800w, /images/service-gutter-guard-installation-1200w.webp 1200w, /images/service-gutter-guard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation-repair": {
+        "src": "/images/service-downspout-installation-repair.webp",
+        "srcset": "/images/service-downspout-installation-repair-400w.webp 400w, /images/service-downspout-installation-repair-800w.webp 800w, /images/service-downspout-installation-repair-1200w.webp 1200w, /images/service-downspout-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-gutter-services": {
+        "src": "/images/service-emergency-gutter-services.webp",
+        "srcset": "/images/service-emergency-gutter-services-400w.webp 400w, /images/service-emergency-gutter-services-800w.webp 800w, /images/service-emergency-gutter-services-1200w.webp 1200w, /images/service-emergency-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
